@@ -5,8 +5,8 @@ public class tiposdedatosenjava {
         // Voy a poner mi código aquí
 
         /* Las variables son nombre a los cuales podemos asignar datos
-         * Tenemos que definir el tipo de dato que va a tener la variable
-         * El nombre deb dejar claro cual es el dato que va a guardar
+          Tenemos que definir el tipo de dato que va a tener la variable
+          El nombre deb dejar claro cual es el dato que va a guardar
          */
 
          // Tipo de datos númericos
